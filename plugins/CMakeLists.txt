@@ -52,6 +52,7 @@ IF("${PLUGIN_LIST}" STREQUAL "")
 		DualFilter
 		dynamics_processor
 		Eq
+		FilteredDelay
 		Flanger
 		HydrogenImport
 		ladspa_browser
